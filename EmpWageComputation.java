@@ -1,3 +1,4 @@
+import java.util.scanner;
 class EmpWageComputation {
 	  int wagePerHour;
 	    int fullDay;
